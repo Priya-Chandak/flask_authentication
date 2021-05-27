@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+flask-wtf
+email-validator
+Flask-Mail
+pillow
